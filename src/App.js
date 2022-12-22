@@ -1,23 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <p>Chandan Gowda Nandakumar</p>
+      <p>
+      Graduate Student of Information Technology with two years' experience designing, developing & optimizing web applications for computationally challenging problems with sound knowledge of the agile software life cycle and test-driven development
+      </p>
     </div>
   );
 }
